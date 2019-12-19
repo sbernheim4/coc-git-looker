@@ -1,0 +1,22 @@
+{
+  "name": "coc-git-looker",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbernheim4/coc-git-looker.git"
+  },
+  "author": "Samuel Bernheim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbernheim4/coc-git-looker/issues"
+  },
+  "homepage": "https://github.com/sbernheim4/coc-git-looker#readme",
+  "dependencies": {
+    "coc": "^1.0.0"
+  }
+}
